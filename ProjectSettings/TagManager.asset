@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Flag
+  - SlipThroughGround
+  - FlagArea
+  - ItemBox
+  - SpawnPoint
+  - GoalPoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - BackGround
+  - Water
+  - UI
+  - WorldObject
+  - Player
+  - SlipThroughCollider
+  - Flag
+  - 1P
+  - 2P
+  - 3P
+  - 4P
+  - Item
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 4266075337
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Flag
+    uniqueID: 2174083095
+    locked: 0
+  - name: Player
+    uniqueID: 4056948235
+    locked: 0
+  - name: Ground
+    uniqueID: 3777354685
+    locked: 0
+  - name: UI
+    uniqueID: 1676394761
+    locked: 0
